@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Karthik12357
-- 👀 I’m interested in .python,java,machine learning and greating GUI's
+- 👀 I’m interested in .python,java,machine learning and creating GUI's
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python
 - 📫 How to reach me ... DON'T
