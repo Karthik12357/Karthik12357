@@ -2,7 +2,7 @@
 - 👀 I’m interested in .python,java,machine learning and creating GUI's
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python
-- 📫 How to reach me ... DON'T
+- 📫 How to reach me ... DON'T lol
 
 <!---
 Karthik12357/Karthik12357 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
