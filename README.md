@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Karthik12357
-- 👀 I’m interested in .python,java,machine learning and creating GUI's
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python
+- 👀 I’m interested in Python,C++ and Arduino
+- 🌱 I’m currently learning Java and Arduino
+
 
 <!---
 Karthik12357/Karthik12357 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
